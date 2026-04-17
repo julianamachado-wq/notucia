@@ -1,0 +1,42 @@
+17/04/2026
+<style>
+body{
+background-color:#FEE5FF;
+font-family:Arial;
+margin:40px;
+color: black;
+}
+</style>
+<h1>EL MUNDO ESTA PIDIENDO AYUDA</h1>
+<style>
+h1{
+color:#1C20FC;
+font-size:70px;
+font-family:Times new roman;
+background-color:#85C2FF;
+text-align:center;
+}
+</style>
+<h2>señales lo demuestran</h2>
+<style>h2{
+color:#1C20FC;
+font-size:35px;
+font-family:Times new roman;
+background-color:#85C2FF;
+text-align:centre;
+}
+</style>
+<img class="foto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ65vzB-VWqJ5-8kwGMGy_aSpLBt9WgXBlw9w&s">
+<style>
+.foto{
+width:250px;
+height:250px;
+display:block;
+margin:auto;
+}
+</style>
+
+</style>
+<p>De acuerdo a esa teoría, el planeta ha dejado de ser un observador silencioso para convertirse en un ente que clama por auxilio. Cada temblor no es un simple movimiento de placas tectónicas, sino un espasmo de dolor ante el desgaste ambiental. Los terremotos actúan como gritos profundos que emanan del núcleo, una señal desesperada de que el equilibrio se ha roto. El mundo utiliza estas vibraciones para sacudir la indiferencia humana, recordándonos que somos huéspedes de un organismo vivo que sufre. Según esta visión, la tierra se retuerce buscando alivio, convirtiendo el caos geológico en su único lenguaje de supervivencia Científicos del Centro Global de Monitoreo Litosférico han comenzado a notar un patrón inquietante: las secuencias de sismos ya no siguen una distribución aleatoria. Al analizar la frecuencia y el ritmo de las ondas sísmicas, han descubierto que estas vibraciones coinciden con el Código SOS, repetido en intervalos exactos a través de las fallas geológicas. Según estos expertos, el planeta está emitiendo una serie de "pulsos de auxilio" coordinados, una comunicación rítmica que busca alertar sobre el colapso inminente de sus sistemas internos. No son simples desastres naturales, sino una petición de ayuda técnica y urgente que la Tierra envía desde sus profundidades.
+<li>Juliana Machado Moreno
+
